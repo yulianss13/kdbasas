@@ -1,0 +1,1 @@
+jQuery('#footer-info').html("Copyright &copy; <span class=\"divibooster_year\"><\/span><script>jQuery(function($){$(\".divibooster_year\").text(new Date().getFullYear());});<\/script> Corporaci\u00f3n. Todos los derechos reservados.");jQuery(function($){})
